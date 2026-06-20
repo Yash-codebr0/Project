@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-codebr0
 - 👀 I’m interested in ai building and making money
-- 🌱 I’m currently learning mlops
+- 🌱 I’m currently data science intern @codec technologies
 - 📫 How to reach me yk981981@gmail.com
 
 <!---
